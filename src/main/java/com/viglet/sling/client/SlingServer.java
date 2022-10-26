@@ -1,4 +1,4 @@
-package io.vilt.sling.client;
+package com.viglet.sling.client;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
@@ -18,7 +18,7 @@ import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClients;
 import org.apache.http.message.BasicNameValuePair;
 
-import io.vilt.sling.client.utils.SlingClientUtils;
+import com.viglet.sling.client.utils.SlingClientUtils;
 
 /**
  * Connect to Sling Server.

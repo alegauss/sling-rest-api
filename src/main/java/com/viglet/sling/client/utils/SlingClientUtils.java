@@ -1,4 +1,4 @@
-package io.vilt.sling.client.utils;
+package com.viglet.sling.client.utils;
 
 import java.nio.charset.StandardCharsets;
 import java.util.Base64;
@@ -6,14 +6,12 @@ import java.util.Base64;
 import org.apache.http.HttpHeaders;
 import org.apache.http.client.methods.HttpPost;
 
-import io.vilt.sling.client.SlingUsernamePasswordCredentials;
+import com.viglet.sling.client.SlingUsernamePasswordCredentials;
 
 /**
  * Client Utils
  * 
  * @author Alexandre Oliveira
- * 
- * @since 0.3.6
  *
  */
 public class SlingClientUtils {

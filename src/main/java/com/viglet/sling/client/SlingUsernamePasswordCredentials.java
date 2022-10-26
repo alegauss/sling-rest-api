@@ -1,4 +1,4 @@
-package io.vilt.sling.client;
+package com.viglet.sling.client;
 
 /**
  * Sling Server Credentials.

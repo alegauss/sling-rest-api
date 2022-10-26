@@ -1,4 +1,4 @@
-package io.vilt;
+package com.viglet;
 
 import static org.junit.Assert.assertTrue;
 

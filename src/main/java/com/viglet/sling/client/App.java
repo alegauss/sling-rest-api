@@ -1,4 +1,4 @@
-package io.vilt.sling.client;
+package com.viglet.sling.client;
 
 import java.net.MalformedURLException;
 import java.net.URL;
